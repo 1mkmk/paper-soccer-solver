@@ -27,7 +27,7 @@ Here is an example of a game played by the solver:
 - The green color represents player zero.
 - The initial turn belongs to player one.
 
-![Example Solution](images/solution.png|width=200)
+![Example Solution](images/solution.png)
 
 
 ## Installation
