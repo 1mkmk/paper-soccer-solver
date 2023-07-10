@@ -27,14 +27,14 @@ Here is an example of a game played by the solver:
 - The green color represents player zero.
 - The initial turn belongs to player one.
 
-![Example Solution](images/solution.png = 200x298)
+![Example Solution](images/solution.png|width=200)
 
 
 ## Installation
 
 To run the CPLEX program, you need to have CPLEX installed on your machine. Follow the steps below to get started:
 
-1. Download and install CPLEX from the IBM website (insert link to the download page).
+1. Download and install CPLEX from the IBM website [here](https://www.ibm.com/products/ilog-cplex-optimization-studio).
 
 2. Clone the repository or download the program files.
 
