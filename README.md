@@ -40,7 +40,7 @@ To run the CPLEX program, you need to have CPLEX installed on your machine. Foll
 
 3. Open the terminal or command prompt and navigate to the program's directory.
 
-4. Compile the program using the appropriate compiler command. For example:
+4. Compile the program using the appropriate compiler command.
 
 
 ## License
