@@ -1,7 +1,7 @@
 # Paper Soccer Solver
 
 Paper Soccer, also known as Paper Hockey, is an abstract strategy game played on a square grid representing a soccer or hockey field. It is played by two players who take turns extending the line representing the ball's position until it reaches one of the two goal areas on the grid. This game is traditionally played on paper using a pencil and is popular in schools and sometimes found in certain publications. There are also many computer implementations of this game. Despite its simple rules, Paper Soccer offers diverse strategies and tactics.
-
+![Paper Soccer](paper-soccer.pdf)
 ![Paper Soccer](images/paper.png)
 
 ## Game Rules
